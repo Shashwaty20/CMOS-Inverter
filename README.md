@@ -1,3 +1,1 @@
-Comparative Analysis of CMOS Inverter
-In this report, we have discussed about Expectation Propagation algorithm based Bayesian joint active-user detection
-and channel estimation technique in massive machine-type communication systems.
+Optimized the PMOS-NMOS size ratio in a CMOS inverter for balanced rise and fall times, identified critical threshold values, and measured timing delays through transient analysis.
